@@ -4,7 +4,11 @@ Welcome to Angular Roadmap! The guide focused on delivering essential informatio
 
 ## How is Angular Roadmap different from the official Angular.io docs?
 
-Don't get us wrong. We believe the official Angular.io docs, as well as the countless quality contributions made by the members of the Angular open source community, are some of the best in the industry. But this project was inspired by consistently seeing the double-edged sword effect the documentation can have.The problem we've consistently found, though, is the official Angular.io docs can be a bit overwhelming for a lot of developers learning about Angular, even those who aren't new to web development itself. This isn't casting blame anywhere. Angular has the benefit of having a lot "under the hood" right out the box. So it makes sense for the official docs to go in-depth in almost every aspect of the framework.But after seeing many junior developers get overwhelmed by the abyss of information and abandon ship in favor of learning React or Vue.js, we knew there had to be a better way.So we embarked on a journey to create a site that met 3 core criterium, nothing more, and nothing less. By adhering to these criteria, this roadmap will provide:
+Don't get us wrong. We believe the official Angular.io docs, as well as the countless quality contributions made by the members of the Angular open source community, are some of the best in the industry. But this project was inspired by consistently seeing the double-edged sword effect the documentation can have.
+
+The problem we've consistently found, though, is the official Angular.io docs can be a bit overwhelming for a lot of developers learning about Angular, even those who aren't new to web development itself. This isn't casting blame anywhere. Angular has the benefit of having a lot "under the hood" right out the box. So it makes sense for the official docs to go in-depth in almost every aspect of the framework.
+
+But after seeing many junior developers get overwhelmed by the abyss of information and abandon ship in favor of learning React or Vue.js, we knew there had to be a better way.So we embarked on a journey to create a site that met 3 core criterium, nothing more, and nothing less. By adhering to these criteria, this roadmap will provide:
 
 1. Essential CLI and code snippets to get up and running
 2. A solid foundation of information on the main/frequently used parts of Angular
