@@ -4,6 +4,6 @@
 
 If you haven't already, install the Angular CLI in your terminal with:
 
-```shell
+```zsh
 npm install -g @angular/cli
 ```
